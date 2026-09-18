@@ -17,7 +17,9 @@ npm install
 npm run dev
 ```
 
-瀏覽器開啟終端機顯示的本機網址即可預覽
+瀏覽器開啟終端機顯示的本機網址即可預覽。
+
+線上頁面：https://reikama414.github.io/meiji-apollo-chocolate-web/
 
 ## 指令
 
